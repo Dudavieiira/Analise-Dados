@@ -2,6 +2,8 @@ Projeto Análise de Dados
 
 Este projeto é um dashboard interativo desenvolvido com Streamlit, Pandas e Plotly para explorar dados salariais de diferentes cargos, senioridades, contratos e tamanhos de empresa na área de dados, utilizando informações filtráveis e visualizações dinâmicas.
 
+ Acesse aqui: [https://lnkd.in/deTNghUX](https://imersao-dados-py.streamlit.app/)
+ 
 🚀 Funcionalidades
 
 Filtros interativos na barra lateral:
@@ -44,5 +46,6 @@ Qual é o salário médio de Cientistas de Dados no Brasil nos últimos anos?
 Quais são os 10 cargos mais bem pagos na área de dados?
 Como está a distribuição de salários entre diferentes senioridades?
 Qual é a proporção de trabalho remoto vs presencial?
+
 
 
