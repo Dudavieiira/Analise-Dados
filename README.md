@@ -31,9 +31,9 @@ Tabela de dados detalhados com base nos filtros aplicados
 🛠️ Tecnologias Utilizadas:
 
 Python 3
-Streamlit — criação da aplicação web interativa
-Pandas — manipulação e filtragem dos dados
-Plotly Express — visualizações gráficas
+Streamlit — criação da aplicação web interativa;
+Pandas — manipulação e filtragem dos dados;
+Plotly Express — visualizações gráficas;
 CSV dataset hospedado no GitHub
 
 📊 Fonte dos Dados:
@@ -46,6 +46,7 @@ Qual é o salário médio de Cientistas de Dados no Brasil nos últimos anos?
 Quais são os 10 cargos mais bem pagos na área de dados?
 Como está a distribuição de salários entre diferentes senioridades?
 Qual é a proporção de trabalho remoto vs presencial?
+
 
 
 
